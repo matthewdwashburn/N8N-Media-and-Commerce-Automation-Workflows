@@ -1,4 +1,4 @@
-# Media and Commerce Automation Workflows
+# N8N Media and Commerce Automation Workflows
 A collection of n8n automation workflows designed to streamline operations for my digital media and e-commerce business. These workflows automate data collection, content management, account monitoring/updating, media production tasks, and more. Each file must be uploaded to an n8n workflow to function properly.
 
 ## Amazon Seller Account Manager Workflow
