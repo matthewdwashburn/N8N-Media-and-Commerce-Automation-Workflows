@@ -4,7 +4,7 @@ A collection of n8n automation workflows designed to streamline operations for m
 
 ## Amazon Seller Account Manager Workflow
 
-![workflow preview](https://github.com/user-attachments/assets/639c535b-6aa2-4aef-8bc4-c91f781c6bbb)
+![workflow preview](https://github.com/user-attachments/assets/8bda02df-2f1c-44fd-a88f-ae557fe703bd)
 
 ## Purpose: Automate Amazon Seller account management and optimization.
 
@@ -27,7 +27,7 @@ A collection of n8n automation workflows designed to streamline operations for m
 
 ## Video Creator/Uploader Workflow
 
-![workflow preview](https://github.com/user-attachments/assets/51c8aa77-0629-46dc-bb33-f14a3bdfd013)
+![workflow preview](https://github.com/user-attachments/assets/03124718-580e-4855-8e6e-d355871e595e)
 
 ## Purpose: End-to-end automated video production pipeline with AI-powered content creation and social media distribution.
 
@@ -51,7 +51,7 @@ A collection of n8n automation workflows designed to streamline operations for m
 
 ## X/Reddit/Web Scraper Workflow
 
-![workflow preview](https://github.com/user-attachments/assets/ece0245b-f2d1-426c-b52a-bef08772d579)
+![workflow preview](https://github.com/user-attachments/assets/9f332d67-d7c6-4085-a5f9-4010a1dcc04f)
 
 ## Purpose: Comprehensive social media content aggregation and AI-powered content transformation pipeline.
 
@@ -82,7 +82,7 @@ Quality Control Path: Manual screening and template customization options after 
 
 ## IG Scraper Workflow
 
-![workflow preview](https://github.com/user-attachments/assets/f3282979-0139-4155-af8c-6576b4a21ece)
+![workflow preview](https://github.com/user-attachments/assets/8fff931b-8908-40a8-aab2-e633e6bde882)
 
 ## Purpose: Automated Instagram content curation and AI-powered commentary and description creation for image content to be used in the video production workflow.
 
@@ -104,7 +104,7 @@ Quality Control Path: Manual screening and template customization options after 
 
 ## FB Scraper Workflow
 
-![workflow preview](https://github.com/user-attachments/assets/3d09d708-9b12-4537-b6dc-054525ccd82d)
+![workflow preview](https://github.com/user-attachments/assets/cc5a1445-5d7c-4677-af40-d34efb53ff63)
 
 ## Purpose: Facebook content curation with AI-driven commentary integration for image content to be used in video content production.
 
